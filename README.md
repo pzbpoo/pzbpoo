@@ -1,7 +1,6 @@
 # HI<br>
 ## **hihi**<br>
-### Hi there 👋\
-i havent finished my `homework`...
+### Hi there 👋
 
 <!--
 **pzbpoo/pzbpoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
